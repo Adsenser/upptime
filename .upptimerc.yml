@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: spot.damoat API server
     url: https://api-spot.damoat.com/server.php?initial=true
+  - name: spot.damoat CloudFlare Pages
+    url: https://spot.damoat.com/
   - name: jusho API server
     url: https://madefor.github.io/postal-code-api/api/v1/350/1106.json
 
