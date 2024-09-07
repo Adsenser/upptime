@@ -22,18 +22,20 @@
     "url": "https://api-spot.damoat.com/server.php?initial=true",
     "icon": "https://icons.duckduckgo.com/ip3/api-spot.damoat.com.ico",
     "slug": "spot-damoat-api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1142,
-    "timeDay": 859,
-    "timeWeek": 967,
-    "timeMonth": 1131,
-    "timeYear": 1142,
-    "dailyMinutesDown": {}
+    "time": 1133,
+    "timeDay": 790,
+    "timeWeek": 937,
+    "timeMonth": 1118,
+    "timeYear": 1133,
+    "dailyMinutesDown": {
+      "2024-09-07": 0
+    }
   },
   {
     "name": "jusho API server",
