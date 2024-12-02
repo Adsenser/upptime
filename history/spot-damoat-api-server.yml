@@ -1,7 +1,7 @@
 url: https://api-spot.damoat.com/server.php?initial=true
-status: up
-code: 200
-responseTime: 1235
-lastUpdated: 2024-12-01T23:10:15.067Z
+status: down
+code: 530
+responseTime: 3126
+lastUpdated: 2024-12-02T02:43:57.897Z
 startTime: 2024-07-29T08:56:55.936Z
 generator: Upptime <https://github.com/upptime/upptime>
