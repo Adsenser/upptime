@@ -22,19 +22,19 @@
     "url": "https://api-spot.damoat.com/server.php?initial=true",
     "icon": "https://icons.duckduckgo.com/ip3/api-spot.damoat.com.ico",
     "slug": "spot-damoat-api-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1157,
-    "timeDay": 2181,
-    "timeWeek": 1403,
-    "timeMonth": 1271,
-    "timeYear": 1157,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
+    "time": 1158,
+    "timeDay": 1862,
+    "timeWeek": 1383,
+    "timeMonth": 1270,
+    "timeYear": 1158,
     "dailyMinutesDown": {
-      "2024-12-02": 0
+      "2024-12-02": 42
     }
   },
   {
