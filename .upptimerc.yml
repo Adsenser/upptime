@@ -3,11 +3,11 @@ owner: Adsenser # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name: spot.damoat CF Pages
+  - name: spot.damoat
     url: https://spot.damoat.com/
-  - name: spot.damoat API server
+  - name: spot.damoat API 
     url: https://api-spot.damoat.com/server.php?initial=true
-  - name: jusho API server
+  - name: jusho API 
     url: https://madefor.github.io/postal-code-api/api/v1/350/1106.json
 
 status-website:
@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Adsenser
   introTitle: "**실시간** 모니터링"
-  introMessage: 일정시간마다 자동으로 사이트 다운 여부 및 핑을 체크합니다.
+  introMessage: 일정시간마다 자동으로 사이트 다운 여부 및 핑을 체크
   navbar:
     - title: 상태
       href: /
