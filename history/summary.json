@@ -5,36 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/spot.damoat.com.ico",
     "slug": "spot-damoat",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 227,
-    "timeDay": 300,
-    "timeWeek": 238,
-    "timeMonth": 227,
-    "timeYear": 227,
-    "dailyMinutesDown": {
-      "2025-02-09": 14
-    }
-  },
-  {
-    "name": "spot.damoat API",
-    "url": "https://api-spot.damoat.com/server.php?initial=true",
-    "icon": "https://icons.duckduckgo.com/ip3/api-spot.damoat.com.ico",
-    "slug": "spot-damoat-api",
-    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 622,
-    "timeDay": 178,
-    "timeWeek": 823,
-    "timeMonth": 622,
-    "timeYear": 622,
+    "time": 224,
+    "timeDay": 262,
+    "timeWeek": 232,
+    "timeMonth": 224,
+    "timeYear": 224,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 55,
+    "time": 106,
+    "timeDay": 79,
     "timeWeek": 104,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "timeMonth": 106,
+    "timeYear": 106,
     "dailyMinutesDown": {}
   }
 ]
