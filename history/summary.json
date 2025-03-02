@@ -1,38 +1,41 @@
 [
   {
-    "name": "spot.damoat",
+    "name": "스팟 다모앗",
     "url": "https://spot.damoat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/spot.damoat.com.ico",
-    "slug": "spot-damoat",
+    "slug": "",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 975,
-    "timeWeek": 1128,
-    "timeMonth": 637,
-    "timeYear": 587,
-    "dailyMinutesDown": {}
+    "uptimeYear": "0.00%",
+    "time": 1235,
+    "timeDay": 1235,
+    "timeWeek": 1235,
+    "timeMonth": 1235,
+    "timeYear": 1235,
+    "dailyMinutesDown": {
+      "2025-01-02": 17,
+      "2024-12-02": 42
+    }
   },
   {
-    "name": "jusho API",
+    "name": "주소 API",
     "url": "https://madefor.github.io/postal-code-api/api/v1/350/1106.json",
     "icon": "https://icons.duckduckgo.com/ip3/madefor.github.io.ico",
-    "slug": "jusho-api",
+    "slug": "api",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 92,
-    "timeDay": 85,
-    "timeWeek": 78,
-    "timeMonth": 90,
-    "timeYear": 92,
+    "time": 154,
+    "timeDay": 154,
+    "timeWeek": 154,
+    "timeMonth": 154,
+    "timeYear": 154,
     "dailyMinutesDown": {}
   }
 ]
