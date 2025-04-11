@@ -5,7 +5,9 @@ repo: upptime # The name of this repository
 sites:
   - name: spot.damoat
     url: https://spot.damoat.com/
-  - name: 주소변환 API
+  - name: spot.damoat API
+    url: https://spot.damoat.com/api/locations
+  - name: Address converter API
     url: https://madefor.github.io/postal-code-api/api/v1/350/1106.json
 
 status-website:
